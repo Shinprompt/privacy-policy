@@ -1,5 +1,8 @@
 ## プライバシーポリシー
 
+### プライバシーポリシーの同意
+- 当拡張機能をインストールまたは使用することにより、本プライバシーポリシーの内容に同意したものとみなします。
+
 ### 収集する情報
 - 当拡張機能は、ユーザーの個人情報を収集しません。
 - 拡張機能の利用に伴い、アップロードされたファイルは一時的に処理されますが、データは保存されません。
@@ -33,6 +36,9 @@
 ---
 
 ## Privacy Policy
+
+### Consent to Privacy Policy
+- By installing or using this extension, you agree to the terms of this Privacy Policy. 
 
 ### Information We Collect
 - This extension does not collect personal information from users.
